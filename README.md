@@ -1,6 +1,7 @@
 # Fashion-Recommender-System
 "Elevate your fashion game with our AI-powered fashion recommendation service, offering curated looks and style suggestions based on your individual taste and the latest fashion trends
 
+First, we import ResNet ResNet, a type of deep learning architecture that has had a significant impact on the field of computer vision. Introduced by researchers at Microsoft in 2015, 
 Dataset Link: https://www.kaggle.com/paramaggarwal/...
 
 Tensorflow Installation Guide: https://medium.com/@arsanatladkat/how...
